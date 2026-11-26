@@ -4,7 +4,7 @@
 
 ## 下载与安装
 
-当前试用版为 v0.2.0-beta.3（构建号 8）。[下载 Apple 芯片 Mac 安装包](https://github.com/shenchao890216/unclechao-writer-release/releases/download/v0.2.0-beta.3/YujianWriter-0.2.0-beta.3-arm64.dmg)。打开 DMG，将“遇见写作”拖入“Applications”。可在 [Releases 下载页](https://github.com/shenchao890216/unclechao-writer-release/releases) 查看更新说明和历史版本。
+当前试用版为 v0.2.0-beta.4（构建号 9）。[下载 Apple 芯片 Mac 安装包](https://github.com/shenchao890216/unclechao-writer-release/releases/download/v0.2.0-beta.4/YujianWriter-0.2.0-beta.4-arm64.dmg)。打开 DMG，将“遇见写作”拖入“Applications”。可在 [Releases 下载页](https://github.com/shenchao890216/unclechao-writer-release/releases) 查看更新说明和历史版本。
 
 从 v0.2.0-beta.1 或更早版本升级，需手动安装一次 v0.2.0-beta.2 或更新版本。之后发现新版本时，主窗口会显示更新按钮。点击即可下载，完成后可选择“重启并安装”或“稍后”。
 
